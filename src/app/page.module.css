@@ -1,0 +1,64 @@
+
+.textContainer{
+    background-color: #2f8e81;
+    color: white;
+}
+
+
+.welcome{
+    font-size: 70px;
+}
+
+.second{
+    font-size: 24px;
+    padding-bottom: 10px;
+}
+.third{
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+/* ImageOverlay.module.css */
+.image-container {
+    position: relative;
+    /* display: inline-block; */
+  }
+  
+  .contact-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .text-box {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    width: 50%;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 10px;
+  }
+  
+  .image-text {
+    color: white;
+    font-size: 18px;
+    margin: 0;
+  }
+
+  .firstLine{
+    color: white;
+  }
+  
+  /* .partnerContainer{
+
+  }
+
+  .partnerWrapper1{
+
+  } */
+
+.partnerWrapper2{
+    min-height: 4vh;
+  }
+.first_col{
+    width: 10px;
+}

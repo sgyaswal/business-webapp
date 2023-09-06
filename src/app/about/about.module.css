@@ -1,0 +1,40 @@
+.ContentContainer {
+    background-color: #2f8e81;
+}
+
+.aboutUs {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+.content {
+    color: white;
+    font-size: 18px;
+    padding: 20px 200px;
+}
+
+.about_tag {
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.linkWrapper {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.getTouch {
+    text-align: center;
+    border: solid white;
+    border-radius: 25px;
+    border-width: 2px;
+    width: 100px;
+    padding: 15px;
+    width: max-content;
+    color: white;
+}

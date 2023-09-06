@@ -1,0 +1,25 @@
+/* Footer.module.css */
+.footer {
+    position:fixed;
+    bottom: 0;
+    left: 0;
+    /* overflow: hidden; */
+    width: 100%;
+    background-color: #b9b3b3;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+  }
+  
+  /* Style the links within the footer (if needed) */
+  .footer a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  /* Add hover effect to links */
+  .footer a:hover {
+    text-decoration: underline;
+  }
+  

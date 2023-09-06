@@ -1,0 +1,30 @@
+/* components/Navbar.module.css */
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+    background-color: #b9b3b3;
+    width: 100%; /* Make the navbar cover the full width */
+  }
+  
+  .menu-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 20px; /* Adjust the gap between menu items */
+  }
+  
+  .menu-item {
+    font-size: 18px; /* Customize the font size */
+  }
+  
+  .menu-link {
+    text-decoration: none;
+    color: white; /* Customize the text color */
+  }
+  
+  .menu-link:hover {
+    text-decoration: underline;
+  }
+  
